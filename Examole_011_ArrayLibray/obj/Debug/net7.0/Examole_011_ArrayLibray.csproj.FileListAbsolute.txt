@@ -1,0 +1,15 @@
+E:\GeekBrains\GIT\Examples\Examole_011_ArrayLibray\obj\Debug\net7.0\Examole_011_ArrayLibray.csproj.AssemblyReference.cache
+E:\GeekBrains\GIT\Examples\Examole_011_ArrayLibray\obj\Debug\net7.0\Examole_011_ArrayLibray.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\GIT\Examples\Examole_011_ArrayLibray\obj\Debug\net7.0\Examole_011_ArrayLibray.AssemblyInfoInputs.cache
+E:\GeekBrains\GIT\Examples\Examole_011_ArrayLibray\obj\Debug\net7.0\Examole_011_ArrayLibray.AssemblyInfo.cs
+E:\GeekBrains\GIT\Examples\Examole_011_ArrayLibray\obj\Debug\net7.0\Examole_011_ArrayLibray.csproj.CoreCompileInputs.cache
+E:\GeekBrains\GIT\Examples\Examole_011_ArrayLibray\bin\Debug\net7.0\Examole_011_ArrayLibray.exe
+E:\GeekBrains\GIT\Examples\Examole_011_ArrayLibray\bin\Debug\net7.0\Examole_011_ArrayLibray.deps.json
+E:\GeekBrains\GIT\Examples\Examole_011_ArrayLibray\bin\Debug\net7.0\Examole_011_ArrayLibray.runtimeconfig.json
+E:\GeekBrains\GIT\Examples\Examole_011_ArrayLibray\bin\Debug\net7.0\Examole_011_ArrayLibray.dll
+E:\GeekBrains\GIT\Examples\Examole_011_ArrayLibray\bin\Debug\net7.0\Examole_011_ArrayLibray.pdb
+E:\GeekBrains\GIT\Examples\Examole_011_ArrayLibray\obj\Debug\net7.0\Examole_011_ArrayLibray.dll
+E:\GeekBrains\GIT\Examples\Examole_011_ArrayLibray\obj\Debug\net7.0\refint\Examole_011_ArrayLibray.dll
+E:\GeekBrains\GIT\Examples\Examole_011_ArrayLibray\obj\Debug\net7.0\Examole_011_ArrayLibray.pdb
+E:\GeekBrains\GIT\Examples\Examole_011_ArrayLibray\obj\Debug\net7.0\Examole_011_ArrayLibray.genruntimeconfig.cache
+E:\GeekBrains\GIT\Examples\Examole_011_ArrayLibray\obj\Debug\net7.0\ref\Examole_011_ArrayLibray.dll

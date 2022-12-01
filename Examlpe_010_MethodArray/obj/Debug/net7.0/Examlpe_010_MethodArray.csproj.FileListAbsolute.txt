@@ -1,0 +1,15 @@
+E:\GeekBrains\GIT\Examples\Examlpe_010_MethodArray\bin\Debug\net7.0\Examlpe_010_MethodArray.exe
+E:\GeekBrains\GIT\Examples\Examlpe_010_MethodArray\bin\Debug\net7.0\Examlpe_010_MethodArray.deps.json
+E:\GeekBrains\GIT\Examples\Examlpe_010_MethodArray\bin\Debug\net7.0\Examlpe_010_MethodArray.runtimeconfig.json
+E:\GeekBrains\GIT\Examples\Examlpe_010_MethodArray\bin\Debug\net7.0\Examlpe_010_MethodArray.dll
+E:\GeekBrains\GIT\Examples\Examlpe_010_MethodArray\bin\Debug\net7.0\Examlpe_010_MethodArray.pdb
+E:\GeekBrains\GIT\Examples\Examlpe_010_MethodArray\obj\Debug\net7.0\Examlpe_010_MethodArray.csproj.AssemblyReference.cache
+E:\GeekBrains\GIT\Examples\Examlpe_010_MethodArray\obj\Debug\net7.0\Examlpe_010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\GIT\Examples\Examlpe_010_MethodArray\obj\Debug\net7.0\Examlpe_010_MethodArray.AssemblyInfoInputs.cache
+E:\GeekBrains\GIT\Examples\Examlpe_010_MethodArray\obj\Debug\net7.0\Examlpe_010_MethodArray.AssemblyInfo.cs
+E:\GeekBrains\GIT\Examples\Examlpe_010_MethodArray\obj\Debug\net7.0\Examlpe_010_MethodArray.csproj.CoreCompileInputs.cache
+E:\GeekBrains\GIT\Examples\Examlpe_010_MethodArray\obj\Debug\net7.0\Examlpe_010_MethodArray.dll
+E:\GeekBrains\GIT\Examples\Examlpe_010_MethodArray\obj\Debug\net7.0\refint\Examlpe_010_MethodArray.dll
+E:\GeekBrains\GIT\Examples\Examlpe_010_MethodArray\obj\Debug\net7.0\Examlpe_010_MethodArray.pdb
+E:\GeekBrains\GIT\Examples\Examlpe_010_MethodArray\obj\Debug\net7.0\Examlpe_010_MethodArray.genruntimeconfig.cache
+E:\GeekBrains\GIT\Examples\Examlpe_010_MethodArray\obj\Debug\net7.0\ref\Examlpe_010_MethodArray.dll

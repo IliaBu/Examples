@@ -1,0 +1,15 @@
+E:\GeekBrains\GIT\Examples\Example_009_IntroArray\bin\Debug\net7.0\Example_009_IntroArray.exe
+E:\GeekBrains\GIT\Examples\Example_009_IntroArray\bin\Debug\net7.0\Example_009_IntroArray.deps.json
+E:\GeekBrains\GIT\Examples\Example_009_IntroArray\bin\Debug\net7.0\Example_009_IntroArray.runtimeconfig.json
+E:\GeekBrains\GIT\Examples\Example_009_IntroArray\bin\Debug\net7.0\Example_009_IntroArray.dll
+E:\GeekBrains\GIT\Examples\Example_009_IntroArray\bin\Debug\net7.0\Example_009_IntroArray.pdb
+E:\GeekBrains\GIT\Examples\Example_009_IntroArray\obj\Debug\net7.0\Example_009_IntroArray.csproj.AssemblyReference.cache
+E:\GeekBrains\GIT\Examples\Example_009_IntroArray\obj\Debug\net7.0\Example_009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\GIT\Examples\Example_009_IntroArray\obj\Debug\net7.0\Example_009_IntroArray.AssemblyInfoInputs.cache
+E:\GeekBrains\GIT\Examples\Example_009_IntroArray\obj\Debug\net7.0\Example_009_IntroArray.AssemblyInfo.cs
+E:\GeekBrains\GIT\Examples\Example_009_IntroArray\obj\Debug\net7.0\Example_009_IntroArray.csproj.CoreCompileInputs.cache
+E:\GeekBrains\GIT\Examples\Example_009_IntroArray\obj\Debug\net7.0\Example_009_IntroArray.dll
+E:\GeekBrains\GIT\Examples\Example_009_IntroArray\obj\Debug\net7.0\refint\Example_009_IntroArray.dll
+E:\GeekBrains\GIT\Examples\Example_009_IntroArray\obj\Debug\net7.0\Example_009_IntroArray.pdb
+E:\GeekBrains\GIT\Examples\Example_009_IntroArray\obj\Debug\net7.0\Example_009_IntroArray.genruntimeconfig.cache
+E:\GeekBrains\GIT\Examples\Example_009_IntroArray\obj\Debug\net7.0\ref\Example_009_IntroArray.dll

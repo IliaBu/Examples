@@ -40,10 +40,10 @@ int IndexOf(int[] collection, int find)
 }
 
 FillArray(array);
-array[4]=4;
-array[6]=4;
-PrintArray(array);
-Console.WriteLine();
+//array[4]=4;
+//array[6]=4;
+//PrintArray(array);
+//Console.WriteLine();
 
-int pos = IndexOf(array,444);
-Console.WriteLine(pos);
+//int pos = IndexOf(array,444);
+//Console.WriteLine(pos);

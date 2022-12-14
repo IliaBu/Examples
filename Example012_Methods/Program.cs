@@ -167,3 +167,6 @@ PrintArray(arr);
 
 */
 
+
+int[] sa1 = {1, 2, 3};
+Console.WriteLine($"[ {sa1[0]}, {sa1[1]}, {sa1[2]} ]");
